@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "What is AI?",
+    "output": "AI stands for Artificial Intelligence which enables machines to simulate human intelligence."
+  },
+  {
+    "instruction": "What is Machine Learning?",
+    "output": "Machine Learning is a subset of AI where systems learn patterns from data."
+  },
+  {
+    "instruction": "Explain Deep Learning",
+    "output": "Deep Learning uses neural networks with multiple layers to learn complex patterns."
+  },
+  {
+    "instruction": "What is fine-tuning?",
+    "output": "Fine-tuning is the process of training a pretrained model on task-specific data."
+  },
+  {
+    "instruction": "What is LoRA?",
+    "output": "LoRA is a parameter-efficient fine-tuning technique that trains low-rank matrices instead of full model weights."
+  },
+  {
+    "instruction": "What is QLoRA?",
+    "output": "QLoRA combines quantization and LoRA to reduce GPU memory usage during fine-tuning."
+  },
+  {
+    "instruction": "What is NLP?",
+    "output": "NLP stands for Natural Language Processing and focuses on understanding human language."
+  },
+  {
+    "instruction": "What are transformers?",
+    "output": "Transformers are deep learning architectures that use self-attention mechanisms for sequence processing."
+  },
+  {
+    "instruction": "What is supervised learning?",
+    "output": "Supervised learning trains models using labeled input-output data."
+  },
+  {
+    "instruction": "What is overfitting?",
+    "output": "Overfitting occurs when a model memorizes training data and performs poorly on new data."
+  }
+]
